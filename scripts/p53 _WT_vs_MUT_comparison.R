@@ -63,7 +63,7 @@ png(file  = "biostar_query.png", height = 7000,width = 2000 ,res = 120)
 draw(hm)
 dev.off()
 
-
+1
 
 
 
